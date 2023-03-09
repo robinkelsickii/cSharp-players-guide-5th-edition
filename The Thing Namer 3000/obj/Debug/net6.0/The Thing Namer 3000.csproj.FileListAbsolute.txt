@@ -1,0 +1,15 @@
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.exe
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.deps.json
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.runtimeconfig.json
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.dll
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.pdb
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.csproj.AssemblyReference.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.AssemblyInfoInputs.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.AssemblyInfo.cs
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.csproj.CoreCompileInputs.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.dll
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\refint\The Thing Namer 3000.dll
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.pdb
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.genruntimeconfig.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Thing Namer 3000\obj\Debug\net6.0\ref\The Thing Namer 3000.dll
