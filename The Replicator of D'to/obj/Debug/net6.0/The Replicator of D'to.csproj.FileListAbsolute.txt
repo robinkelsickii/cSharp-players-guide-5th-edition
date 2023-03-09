@@ -1,0 +1,15 @@
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\bin\Debug\net6.0\The Replicator of D'to.exe
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\bin\Debug\net6.0\The Replicator of D'to.deps.json
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\bin\Debug\net6.0\The Replicator of D'to.runtimeconfig.json
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\bin\Debug\net6.0\The Replicator of D'to.dll
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\bin\Debug\net6.0\The Replicator of D'to.pdb
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.csproj.AssemblyReference.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.AssemblyInfoInputs.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.AssemblyInfo.cs
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.csproj.CoreCompileInputs.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.dll
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\refint\The Replicator of D'to.dll
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.pdb
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\The Replicator of D'to.genruntimeconfig.cache
+C:\Users\rkelsick\Documents\Projects\C# Players Guide 5th Edition\The Replicator of D'to\obj\Debug\net6.0\ref\The Replicator of D'to.dll
