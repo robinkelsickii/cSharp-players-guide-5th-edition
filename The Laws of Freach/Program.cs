@@ -12,7 +12,7 @@ for (int i = 0; i < array.Length; i++)
     array[i] = numberInput;
 }
 
-int smallestNumber = int.MaxValue;
+int smallestNumber = int.MaxValue; 
 
 foreach (int i in array)
 {
