@@ -16,8 +16,8 @@ int smallestNumber = int.MaxValue;
 
 foreach (int i in array)
 {
-    if (array[i] < smallestNumber)
-        smallestNumber = array[i];
+    if (i < smallestNumber)
+        smallestNumber = i;
 }
 
 Console.WriteLine($"The smallest number is {smallestNumber}");
